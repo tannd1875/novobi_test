@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAt0TJOhPZ00yGNyJ4u3DRjgAAAAACAAAAAAAQZgAAAAEAACAAAADbBDUcHDWZzjYdfF7kKgLN089hfpKkXmxPhhdHUWmYIwAAAAAOgAAAAAIAACAAAADGVXXNHXcb8v6uXih6eUqCGui2COyrTFgBcGhQsTRpFIAAAAAL1n26buf3sPn4juKk80T74fWzBJ/nIY/+xsM9/+wD7fGHt9NC8bQxB9G/LOoWgToDlt198XoswXUKYDpdAERBh+YulNu9e7w8nzjxkSkmAjFJZW/5kWfW38scAsfuX49FmssNTsGX2cWeRqzlvHQHqZLhjc+ptAVgwGIBEGf2kEAAAAA2lZyOtZAu9FIv1BlsnwhygOkX78ouzN4GDFzljsGJMdo7A2AVMqRYCylALIhmut0t5ZKAUIZch5WVJzvy7zmV</EncryptedPassword>
+    <History>True|2024-08-06T07:47:21.6929124Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ClinicAppCon">
+      <Value>Data Source=tcp:clinic-backenddbserver.database.windows.net,1433%3bInitial Catalog=clinic%3bUser Id=clinic%40clinic-backenddbserver%3bPassword=Tannd%407891011</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
